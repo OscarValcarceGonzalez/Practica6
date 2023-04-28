@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "malloc.h"
+
 #define MAX_PERSONAS 100
 #define L 100
 
