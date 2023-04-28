@@ -1,0 +1,3 @@
+C:/Users/oscar/OneDrive - Universidad Rey Juan Carlos/Programacion II/Practica6/cmake-build-debug/CMakeFiles/Practica6.dir
+C:/Users/oscar/OneDrive - Universidad Rey Juan Carlos/Programacion II/Practica6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oscar/OneDrive - Universidad Rey Juan Carlos/Programacion II/Practica6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
